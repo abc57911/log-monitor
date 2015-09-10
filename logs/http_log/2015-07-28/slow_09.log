@@ -1,0 +1,70 @@
+================================================
+active_time: 2015-07-28 09:32:35
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":15.06882,"namelookup_time":6.7e-5,"connect_time":15.035398,"pretransfer_time":15.035541}
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-28T09:21:46+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":16,"server_number":"143"}}
+================================================
+active_time: 2015-07-28 09:31:55
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":63.157221,"namelookup_time":4.1e-5,"connect_time":63.124237,"pretransfer_time":63.124362}
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-28T09:21:46+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":16,"server_number":"143"}}
+================================================
+active_time: 2015-07-28 09:32:15
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":63.239426,"namelookup_time":3.1e-5,"connect_time":63.144232,"pretransfer_time":63.144298}
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-28T09:21:46+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":35,"server_number":"143"}}
+================================================
+active_time: 2015-07-28 09:36:03
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":63.175386,"namelookup_time":2.1e-5,"connect_time":63.146051,"pretransfer_time":63.146103}
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-28T09:21:46+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":14,"server_number":"143"}}
+================================================
+active_time: 2015-07-28 09:36:05
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":63.174531,"namelookup_time":6.8e-5,"connect_time":63.13587,"pretransfer_time":63.135932}
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-28T09:21:46+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":21,"server_number":"143"}}

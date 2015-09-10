@@ -1,0 +1,42 @@
+================================================
+active_time: 2015-07-21 11:06:19
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://10.251.11.169:80/api/session/1979d1164fed2195e9010c7a3e63cc705968dfa1
+status: 200
+exectime: {"total_time":63.113319,"namelookup_time":3.9e-5,"connect_time":63.101778,"pretransfer_time":63.101838}
+headers: ["Sensitive-Data: entrance=3&operator=qq6699&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fmember%2Flongdragon_ajax.php+line+%3A2&operator_id=11444833&vendor=rde","Host: sk.dev.d2"]
+param: []
+POST data: []
+out: {"result":"ok","ret":{"session":{"id":"1979d1164fed2195e9010c7a3e63cc705968dfa1","created_at":"2015-07-21T11:05:05+0800","modified_at":""},"user":{"id":"11444833","username":"qq6699","domain":"10000001","alias":"詹姆士","sub":"","enable":"1","block":"","bankrupt":"","test":"","hidden_test":"","size":"0","currency":"CNY","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T11:05:05+0800","last_bank":"","role":"1","all_parents":["11444832","11444831","11444830","11444829","10000001","10000000"]}}}
+================================================
+active_time: 2015-07-21 11:06:22
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":63.148199,"namelookup_time":2.5e-5,"connect_time":63.108354,"pretransfer_time":63.10846}
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T11:05:05+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":17,"server_number":"125"}}
+================================================
+active_time: 2015-07-21 11:06:32
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":63.2381,"namelookup_time":2.9e-5,"connect_time":63.168484,"pretransfer_time":63.168541}
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T11:05:05+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":53,"server_number":"125"}}

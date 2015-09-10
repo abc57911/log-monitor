@@ -1,0 +1,358 @@
+================================================
+active_time: 2015-07-20 17:44:03
+SCRIPT_NAME: /chk_rule.php
+REQUEST_URI: /chk_rule.php
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: POST
+url: http://127.0.0.1:80/pt/api/user/exclude
+status: 200
+exectime: {"total_time":0.608127,"namelookup_time":4.7e-5,"connect_time":0.000147,"pretransfer_time":0.000177}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:72
+    >   /home/disney/company/new-nsk/business_classes/Pitaya.php:171
+    >   /home/disney/company/new-nsk/www/lib/login_mem.php:447
+    >   /home/disney/company/new-nsk/www/chk_rule.php:2
+
+param: {"userid":[11444833],"scope":2,"timestamp":1437385438}
+POST data: {"userid":[11444833],"scope":2,"timestamp":1437385438}
+out: {"ret":null,"error":null,"code":null,"result":true,"profile":{"execute_time":0.085117101669312}}
+================================================
+active_time: 2015-07-20 17:44:20
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=JLQ3&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.272258,"namelookup_time":2.3e-5,"connect_time":9.2e-5,"pretransfer_time":0.000118}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"JLQ3","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"JLQ3","tab":"opposite","type":"win"}
+out: {"ret":null,"error":["JLQ3 \u5c1a\u672a\u7522\u751f chooses"],"code":null,"result":false,"profile":{"execute_time":0.18379616737366}}
+================================================
+active_time: 2015-07-20 17:45:20
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=JLQ3&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.038918,"namelookup_time":2.4e-5,"connect_time":0.000102,"pretransfer_time":0.00013}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"JLQ3","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"JLQ3","tab":"opposite","type":"win"}
+out: {"ret":null,"error":["JLQ3 \u5c1a\u672a\u7522\u751f chooses"],"code":null,"result":false,"profile":{"execute_time":0.01972508430481}}
+================================================
+active_time: 2015-07-20 17:45:45
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=JLQ3&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.391993,"namelookup_time":8.3e-5,"connect_time":0.000342,"pretransfer_time":0.000408}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"JLQ3","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"JLQ3","tab":"opposite","type":"win"}
+out: {"ret":null,"error":["JLQ3 \u5c1a\u672a\u7522\u751f chooses"],"code":null,"result":false,"profile":{"execute_time":0.024862051010132}}
+================================================
+active_time: 2015-07-20 17:46:46
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=JLQ3&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.030133,"namelookup_time":2.3e-5,"connect_time":0.000102,"pretransfer_time":0.000128}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"JLQ3","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"JLQ3","tab":"opposite","type":"win"}
+out: {"ret":null,"error":["JLQ3 \u5c1a\u672a\u7522\u751f chooses"],"code":null,"result":false,"profile":{"execute_time":0.015509128570557}}
+================================================
+active_time: 2015-07-20 17:48:08
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=AHQ3&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.049603,"namelookup_time":3.0e-5,"connect_time":0.000111,"pretransfer_time":0.000141}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"AHQ3","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"AHQ3","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.029577016830444}}
+================================================
+active_time: 2015-07-20 17:50:04
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.299604,"namelookup_time":5.0e-5,"connect_time":0.000173,"pretransfer_time":0.000216}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.035604000091553}}
+================================================
+active_time: 2015-07-20 17:51:01
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.054103,"namelookup_time":6.5e-5,"connect_time":0.00027,"pretransfer_time":0.000317}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.030426025390625}}
+================================================
+active_time: 2015-07-20 17:51:13
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.232688,"namelookup_time":7.8e-5,"connect_time":0.002466,"pretransfer_time":0.002556}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.036927938461304}}
+================================================
+active_time: 2015-07-20 17:52:13
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.038985,"namelookup_time":1.5e-5,"connect_time":7.2e-5,"pretransfer_time":9.3e-5}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024202823638916}}
+================================================
+active_time: 2015-07-20 17:53:13
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.049387,"namelookup_time":5.2e-5,"connect_time":0.000173,"pretransfer_time":0.000213}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024378061294556}}
+================================================
+active_time: 2015-07-20 17:54:13
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.105532,"namelookup_time":4.7e-5,"connect_time":0.000195,"pretransfer_time":0.000243}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":{"game_id":{"CQSF":"1"},"data":[{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:EVEN","name":"\u7b2c\u516d\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:ODD","name":"\u7b2c\u4e03\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:LAST:UNDER","name":"\u7b2c\u4e00\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:LAST:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:ODD","name":"\u7b2c\u4e94\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:EVEN","name":"\u7b2c\u56db\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:UNDER","name":"\u7b2c\u516d\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:UNDER","name":"\u7b2c\u4e03\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:ODD","name":"\u7b2c\u4e00\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:EVEN","name":"\u7b2c\u4e8c\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:LAST:UNDER","name":"\u7b2c\u4e09\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:LAST:UNDER","name":"\u7b2c\u56db\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:SUM:EVEN","name":"\u7b2c\u56db\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:SUM:ODD","name":"\u7b2c\u4e94\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:SUM:EVEN","name":"\u7b2c\u516d\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:SUM:ODD","name":"\u7b2c\u4e03\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:SUM:ODD","name":"\u7b2c\u4e09\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:SUM:EVEN","name":"\u7b2c\u4e8c\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:LAST:OVER","name":"\u7b2c\u4e94\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:LAST:OVER","name":"\u7b2c\u516d\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:LAST:OVER","name":"\u7b2c\u4e03\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:SUM:ODD","name":"\u7b2c\u4e00\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:UNDER","name":"\u7b2c\u4e94\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:ODD","name":"\u7b2c\u4e09\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:UNDER","name":"\u603b\u548c\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:EVEN","name":"\u603b\u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:S:TIGER","name":"\u864e","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:S:TIGER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:SUM:EVEN","name":"\u7279\u522b\u53f7 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:LAST:OVER","name":"\u7279\u522b\u53f7 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:UNDER","name":"\u7279\u522b\u53f7 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:EVEN","name":"\u7279\u522b\u53f7 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:UNDER","name":"\u7b2c\u4e00\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:LAST:OVER","name":"\u603b\u548c\u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:UNDER","name":"\u7b2c\u4e09\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:UNDER","name":"\u7b2c\u56db\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:UNDER"}]},"error":null,"code":null,"result":true,"profile":{"execute_time":0.0870680809021}}
+================================================
+active_time: 2015-07-20 17:55:14
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.0795,"namelookup_time":1.6e-5,"connect_time":8.2e-5,"pretransfer_time":0.000104}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":{"game_id":{"CQSF":"1"},"data":[{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:EVEN","name":"\u7b2c\u516d\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:ODD","name":"\u7b2c\u4e03\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:LAST:UNDER","name":"\u7b2c\u4e00\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:LAST:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:ODD","name":"\u7b2c\u4e94\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:EVEN","name":"\u7b2c\u56db\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:UNDER","name":"\u7b2c\u516d\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:UNDER","name":"\u7b2c\u4e03\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:ODD","name":"\u7b2c\u4e00\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:EVEN","name":"\u7b2c\u4e8c\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:LAST:UNDER","name":"\u7b2c\u4e09\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:LAST:UNDER","name":"\u7b2c\u56db\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:SUM:EVEN","name":"\u7b2c\u56db\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:SUM:ODD","name":"\u7b2c\u4e94\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:SUM:EVEN","name":"\u7b2c\u516d\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:SUM:ODD","name":"\u7b2c\u4e03\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:SUM:ODD","name":"\u7b2c\u4e09\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:SUM:EVEN","name":"\u7b2c\u4e8c\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:LAST:OVER","name":"\u7b2c\u4e94\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:LAST:OVER","name":"\u7b2c\u516d\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:LAST:OVER","name":"\u7b2c\u4e03\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:SUM:ODD","name":"\u7b2c\u4e00\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:UNDER","name":"\u7b2c\u4e94\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:ODD","name":"\u7b2c\u4e09\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:UNDER","name":"\u603b\u548c\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:EVEN","name":"\u603b\u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:S:TIGER","name":"\u864e","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:S:TIGER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:SUM:EVEN","name":"\u7279\u522b\u53f7 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:LAST:OVER","name":"\u7279\u522b\u53f7 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:UNDER","name":"\u7279\u522b\u53f7 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:EVEN","name":"\u7279\u522b\u53f7 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:UNDER","name":"\u7b2c\u4e00\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:LAST:OVER","name":"\u603b\u548c\u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:UNDER","name":"\u7b2c\u4e09\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:UNDER","name":"\u7b2c\u56db\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:UNDER"}]},"error":null,"code":null,"result":true,"profile":{"execute_time":0.064327955245972}}
+================================================
+active_time: 2015-07-20 17:56:15
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.095677,"namelookup_time":3.3e-5,"connect_time":0.000116,"pretransfer_time":0.000145}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":{"game_id":{"CQSF":"1"},"data":[{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:EVEN","name":"\u7b2c\u516d\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:ODD","name":"\u7b2c\u4e03\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:LAST:UNDER","name":"\u7b2c\u4e00\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:LAST:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:ODD","name":"\u7b2c\u4e94\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:EVEN","name":"\u7b2c\u56db\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:UNDER","name":"\u7b2c\u516d\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:UNDER","name":"\u7b2c\u4e03\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:ODD","name":"\u7b2c\u4e00\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:EVEN","name":"\u7b2c\u4e8c\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:LAST:UNDER","name":"\u7b2c\u4e09\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:LAST:UNDER","name":"\u7b2c\u56db\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:SUM:EVEN","name":"\u7b2c\u56db\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:SUM:ODD","name":"\u7b2c\u4e94\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:SUM:EVEN","name":"\u7b2c\u516d\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:SUM:ODD","name":"\u7b2c\u4e03\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:SUM:ODD","name":"\u7b2c\u4e09\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:SUM:EVEN","name":"\u7b2c\u4e8c\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:LAST:OVER","name":"\u7b2c\u4e94\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:LAST:OVER","name":"\u7b2c\u516d\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:LAST:OVER","name":"\u7b2c\u4e03\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:SUM:ODD","name":"\u7b2c\u4e00\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:UNDER","name":"\u7b2c\u4e94\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:ODD","name":"\u7b2c\u4e09\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:UNDER","name":"\u603b\u548c\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:EVEN","name":"\u603b\u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:S:TIGER","name":"\u864e","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:S:TIGER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:SUM:EVEN","name":"\u7279\u522b\u53f7 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:LAST:OVER","name":"\u7279\u522b\u53f7 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:UNDER","name":"\u7279\u522b\u53f7 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:EVEN","name":"\u7279\u522b\u53f7 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:UNDER","name":"\u7b2c\u4e00\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:LAST:OVER","name":"\u603b\u548c\u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:UNDER","name":"\u7b2c\u4e09\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:UNDER","name":"\u7b2c\u56db\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:UNDER"}]},"error":null,"code":null,"result":true,"profile":{"execute_time":0.074050903320312}}
+================================================
+active_time: 2015-07-20 17:57:14
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.094334,"namelookup_time":5.4e-5,"connect_time":0.000189,"pretransfer_time":0.000238}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":{"game_id":{"CQSF":"1"},"data":[{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:EVEN","name":"\u7b2c\u516d\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:ODD","name":"\u7b2c\u4e03\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:LAST:UNDER","name":"\u7b2c\u4e00\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:LAST:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:ODD","name":"\u7b2c\u4e94\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:EVEN","name":"\u7b2c\u56db\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:UNDER","name":"\u7b2c\u516d\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:UNDER","name":"\u7b2c\u4e03\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:ODD","name":"\u7b2c\u4e00\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:EVEN","name":"\u7b2c\u4e8c\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:LAST:UNDER","name":"\u7b2c\u4e09\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:LAST:UNDER","name":"\u7b2c\u56db\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:SUM:EVEN","name":"\u7b2c\u56db\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:SUM:ODD","name":"\u7b2c\u4e94\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:SUM:EVEN","name":"\u7b2c\u516d\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:SUM:ODD","name":"\u7b2c\u4e03\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:SUM:ODD","name":"\u7b2c\u4e09\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:SUM:EVEN","name":"\u7b2c\u4e8c\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:LAST:OVER","name":"\u7b2c\u4e94\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:LAST:OVER","name":"\u7b2c\u516d\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:LAST:OVER","name":"\u7b2c\u4e03\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:SUM:ODD","name":"\u7b2c\u4e00\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:UNDER","name":"\u7b2c\u4e94\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:ODD","name":"\u7b2c\u4e09\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:UNDER","name":"\u603b\u548c\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:EVEN","name":"\u603b\u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:S:TIGER","name":"\u864e","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:S:TIGER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:SUM:EVEN","name":"\u7279\u522b\u53f7 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:LAST:OVER","name":"\u7279\u522b\u53f7 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:UNDER","name":"\u7279\u522b\u53f7 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:EVEN","name":"\u7279\u522b\u53f7 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:UNDER","name":"\u7b2c\u4e00\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:LAST:OVER","name":"\u603b\u548c\u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:UNDER","name":"\u7b2c\u4e09\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:UNDER","name":"\u7b2c\u56db\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:UNDER"}]},"error":null,"code":null,"result":true,"profile":{"execute_time":0.074307918548584}}
+================================================
+active_time: 2015-07-20 17:58:14
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.078248,"namelookup_time":3.8e-5,"connect_time":0.000247,"pretransfer_time":0.000295}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":{"game_id":{"CQSF":"1"},"data":[{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:EVEN","name":"\u7b2c\u516d\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:ODD","name":"\u7b2c\u4e03\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:LAST:UNDER","name":"\u7b2c\u4e00\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:LAST:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:ODD","name":"\u7b2c\u4e94\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:EVEN","name":"\u7b2c\u56db\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:UNDER","name":"\u7b2c\u516d\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:UNDER","name":"\u7b2c\u4e03\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:ODD","name":"\u7b2c\u4e00\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:EVEN","name":"\u7b2c\u4e8c\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:LAST:UNDER","name":"\u7b2c\u4e09\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:LAST:UNDER","name":"\u7b2c\u56db\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:SUM:EVEN","name":"\u7b2c\u56db\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:SUM:ODD","name":"\u7b2c\u4e94\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:SUM:EVEN","name":"\u7b2c\u516d\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:SUM:ODD","name":"\u7b2c\u4e03\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:SUM:ODD","name":"\u7b2c\u4e09\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:SUM:EVEN","name":"\u7b2c\u4e8c\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:LAST:OVER","name":"\u7b2c\u4e94\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:LAST:OVER","name":"\u7b2c\u516d\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:LAST:OVER","name":"\u7b2c\u4e03\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:SUM:ODD","name":"\u7b2c\u4e00\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:UNDER","name":"\u7b2c\u4e94\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:ODD","name":"\u7b2c\u4e09\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:UNDER","name":"\u603b\u548c\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:EVEN","name":"\u603b\u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:S:TIGER","name":"\u864e","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:S:TIGER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:SUM:EVEN","name":"\u7279\u522b\u53f7 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:LAST:OVER","name":"\u7279\u522b\u53f7 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:UNDER","name":"\u7279\u522b\u53f7 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:EVEN","name":"\u7279\u522b\u53f7 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:UNDER","name":"\u7b2c\u4e00\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:LAST:OVER","name":"\u603b\u548c\u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:UNDER","name":"\u7b2c\u4e09\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:UNDER","name":"\u7b2c\u56db\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:UNDER"}]},"error":null,"code":null,"result":true,"profile":{"execute_time":0.060300827026367}}
+================================================
+active_time: 2015-07-20 17:59:15
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=CQSF&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.075374,"namelookup_time":1.9e-5,"connect_time":0.0001,"pretransfer_time":0.000123}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"CQSF","tab":"opposite","type":"win"}
+out: {"ret":{"game_id":{"CQSF":"1"},"data":[{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:EVEN","name":"\u7b2c\u516d\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:ODD","name":"\u7b2c\u4e03\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:LAST:UNDER","name":"\u7b2c\u4e00\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:LAST:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:ODD","name":"\u7b2c\u4e94\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:EVEN","name":"\u7b2c\u56db\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:UNDER","name":"\u7b2c\u516d\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:UNDER","name":"\u7b2c\u4e03\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:ODD","name":"\u7b2c\u4e00\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:EVEN","name":"\u7b2c\u4e8c\u7403 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:LAST:UNDER","name":"\u7b2c\u4e09\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:LAST:UNDER","name":"\u7b2c\u56db\u7403 \u5c3e\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:LAST:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:SUM:EVEN","name":"\u7b2c\u56db\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:SUM:ODD","name":"\u7b2c\u4e94\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:SUM:EVEN","name":"\u7b2c\u516d\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:SUM:ODD","name":"\u7b2c\u4e03\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:SUM:ODD","name":"\u7b2c\u4e09\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:SUM:EVEN","name":"\u7b2c\u4e8c\u7403 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:LAST:OVER","name":"\u7b2c\u4e94\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"6:LAST:OVER","name":"\u7b2c\u516d\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/6:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"7:LAST:OVER","name":"\u7b2c\u4e03\u7403 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/7:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:SUM:ODD","name":"\u7b2c\u4e00\u7403 \u548c\u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:SUM:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"5:UNDER","name":"\u7b2c\u4e94\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/5:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:ODD","name":"\u7b2c\u4e09\u7403 \u5355","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:ODD"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:UNDER","name":"\u603b\u548c\u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:EVEN","name":"\u603b\u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:S:TIGER","name":"\u864e","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:S:TIGER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:SUM:EVEN","name":"\u7279\u522b\u53f7 \u548c\u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:SUM:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:LAST:OVER","name":"\u7279\u522b\u53f7 \u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:UNDER","name":"\u7279\u522b\u53f7 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"S:EVEN","name":"\u7279\u522b\u53f7 \u53cc","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/S:EVEN"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"1:UNDER","name":"\u7b2c\u4e00\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/1:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"ALL:SUM:LAST:OVER","name":"\u603b\u548c\u5c3e\u5927","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/ALL:SUM:LAST:OVER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"3:UNDER","name":"\u7b2c\u4e09\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/3:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"2:UNDER","name":"\u7b2c\u4e8c\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/2:UNDER"},{"gtype":"\u91cd\u5e86\u5e78\u8fd0\u519c\u573a","count":1,"choose":"4:UNDER","name":"\u7b2c\u56db\u7403 \u5c0f","wagers_type":"\/pt\/mem\/order\/CQSF#\/GENERAL\/4:UNDER"}]},"error":null,"code":null,"result":true,"profile":{"execute_time":0.058946132659912}}

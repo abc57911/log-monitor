@@ -1,0 +1,1260 @@
+================================================
+active_time: 2015-07-21 13:00:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.038757,"namelookup_time":2.4e-5,"connect_time":0.000102,"pretransfer_time":0.00013}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024261951446533}}
+================================================
+active_time: 2015-07-21 13:01:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.042393,"namelookup_time":7.3e-5,"connect_time":0.000506,"pretransfer_time":0.00061}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.022125005722046}}
+================================================
+active_time: 2015-07-21 13:02:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.039743,"namelookup_time":3.0e-5,"connect_time":0.000127,"pretransfer_time":0.00016}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024861097335815}}
+================================================
+active_time: 2015-07-21 13:03:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.044639,"namelookup_time":8.2e-5,"connect_time":0.000307,"pretransfer_time":0.000365}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024452924728394}}
+================================================
+active_time: 2015-07-21 13:04:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.03772,"namelookup_time":4.0e-5,"connect_time":0.000146,"pretransfer_time":0.000209}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.02225399017334}}
+================================================
+active_time: 2015-07-21 13:05:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.041261,"namelookup_time":4.8e-5,"connect_time":0.000199,"pretransfer_time":0.000242}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.022361993789673}}
+================================================
+active_time: 2015-07-21 13:06:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.040072,"namelookup_time":2.4e-5,"connect_time":0.000103,"pretransfer_time":0.000129}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.023836135864258}}
+================================================
+active_time: 2015-07-21 13:07:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.040489,"namelookup_time":3.4e-5,"connect_time":0.00014,"pretransfer_time":0.000176}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.023749113082886}}
+================================================
+active_time: 2015-07-21 13:08:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.038412,"namelookup_time":4.6e-5,"connect_time":0.000198,"pretransfer_time":0.000259}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.022289037704468}}
+================================================
+active_time: 2015-07-21 13:09:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.039729,"namelookup_time":3.5e-5,"connect_time":0.000266,"pretransfer_time":0.000351}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021990776062012}}
+================================================
+active_time: 2015-07-21 13:10:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.038929,"namelookup_time":2.6e-5,"connect_time":0.00013,"pretransfer_time":0.000157}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.023010015487671}}
+================================================
+active_time: 2015-07-21 13:11:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.039915,"namelookup_time":2.9e-5,"connect_time":0.000108,"pretransfer_time":0.000136}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024527072906494}}
+================================================
+active_time: 2015-07-21 13:12:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.04336,"namelookup_time":8.8e-5,"connect_time":0.000408,"pretransfer_time":0.000484}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021978139877319}}
+================================================
+active_time: 2015-07-21 13:13:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.044714,"namelookup_time":3.3e-5,"connect_time":0.000155,"pretransfer_time":0.00019}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.02097487449646}}
+================================================
+active_time: 2015-07-21 13:14:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.039896,"namelookup_time":3.6e-5,"connect_time":0.000134,"pretransfer_time":0.000161}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.02295184135437}}
+================================================
+active_time: 2015-07-21 13:15:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.047657,"namelookup_time":3.3e-5,"connect_time":0.00018,"pretransfer_time":0.000217}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.027031183242798}}
+================================================
+active_time: 2015-07-21 13:16:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.039532,"namelookup_time":4.3e-5,"connect_time":0.000186,"pretransfer_time":0.000228}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021216869354248}}
+================================================
+active_time: 2015-07-21 13:17:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.035066,"namelookup_time":2.4e-5,"connect_time":9.3e-5,"pretransfer_time":0.000119}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021266937255859}}
+================================================
+active_time: 2015-07-21 13:18:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.033331,"namelookup_time":2.2e-5,"connect_time":9.3e-5,"pretransfer_time":0.000119}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019619941711426}}
+================================================
+active_time: 2015-07-21 13:19:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032934,"namelookup_time":1.9e-5,"connect_time":8.6e-5,"pretransfer_time":0.00011}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019374847412109}}
+================================================
+active_time: 2015-07-21 13:20:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.03865,"namelookup_time":4.8e-5,"connect_time":0.000188,"pretransfer_time":0.000231}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021117925643921}}
+================================================
+active_time: 2015-07-21 13:21:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.040369,"namelookup_time":3.2e-5,"connect_time":0.000127,"pretransfer_time":0.00016}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.02394700050354}}
+================================================
+active_time: 2015-07-21 13:22:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.043949,"namelookup_time":2.5e-5,"connect_time":0.00011,"pretransfer_time":0.000141}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021166086196899}}
+================================================
+active_time: 2015-07-21 13:23:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.042524,"namelookup_time":2.7e-5,"connect_time":0.000107,"pretransfer_time":0.000135}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.022686004638672}}
+================================================
+active_time: 2015-07-21 13:24:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.041628,"namelookup_time":3.9e-5,"connect_time":0.00026,"pretransfer_time":0.000319}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021897077560425}}
+================================================
+active_time: 2015-07-21 13:25:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.039586,"namelookup_time":2.5e-5,"connect_time":0.000133,"pretransfer_time":0.000175}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.023112058639526}}
+================================================
+active_time: 2015-07-21 13:26:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.041753,"namelookup_time":2.4e-5,"connect_time":0.000109,"pretransfer_time":0.000137}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.023981094360352}}
+================================================
+active_time: 2015-07-21 13:27:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.134895,"namelookup_time":4.1e-5,"connect_time":0.000185,"pretransfer_time":0.000227}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.022849082946777}}
+================================================
+active_time: 2015-07-21 13:28:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.044212,"namelookup_time":4.0e-5,"connect_time":0.000167,"pretransfer_time":0.000206}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020825147628784}}
+================================================
+active_time: 2015-07-21 13:29:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.042095,"namelookup_time":5.5e-5,"connect_time":0.000199,"pretransfer_time":0.000305}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024982929229736}}
+================================================
+active_time: 2015-07-21 13:30:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.040197,"namelookup_time":5.5e-5,"connect_time":0.000264,"pretransfer_time":0.00032}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021950960159302}}
+================================================
+active_time: 2015-07-21 13:31:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.047061,"namelookup_time":0.000106,"connect_time":0.000322,"pretransfer_time":0.00038}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.026904821395874}}
+================================================
+active_time: 2015-07-21 13:32:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.046308,"namelookup_time":6.7e-5,"connect_time":0.000253,"pretransfer_time":0.000311}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024538993835449}}
+================================================
+active_time: 2015-07-21 13:33:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.050961,"namelookup_time":0.000138,"connect_time":0.000386,"pretransfer_time":0.000463}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.02883505821228}}
+================================================
+active_time: 2015-07-21 13:34:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.050349,"namelookup_time":5.5e-5,"connect_time":0.00021,"pretransfer_time":0.000295}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024405956268311}}
+================================================
+active_time: 2015-07-21 13:35:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.048373,"namelookup_time":3.5e-5,"connect_time":0.00014,"pretransfer_time":0.000168}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.028159141540527}}
+================================================
+active_time: 2015-07-21 13:36:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.049932,"namelookup_time":3.9e-5,"connect_time":0.000584,"pretransfer_time":0.000621}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.025440216064453}}
+================================================
+active_time: 2015-07-21 13:37:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.041268,"namelookup_time":8.5e-5,"connect_time":0.000385,"pretransfer_time":0.000467}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021386861801147}}
+================================================
+active_time: 2015-07-21 13:38:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.040018,"namelookup_time":6.5e-5,"connect_time":0.000393,"pretransfer_time":0.000458}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.022753000259399}}
+================================================
+active_time: 2015-07-21 13:39:41
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.704716,"namelookup_time":2.5e-5,"connect_time":0.000102,"pretransfer_time":0.000129}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021764993667603}}
+================================================
+active_time: 2015-07-21 13:40:40
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.034253,"namelookup_time":2.8e-5,"connect_time":0.000126,"pretransfer_time":0.000159}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019740104675293}}
+================================================
+active_time: 2015-07-21 13:41:40
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.03593,"namelookup_time":2.7e-5,"connect_time":0.000116,"pretransfer_time":0.000141}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020406007766724}}
+================================================
+active_time: 2015-07-21 13:42:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032359,"namelookup_time":1.7e-5,"connect_time":7.7e-5,"pretransfer_time":9.9e-5}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019162893295288}}
+================================================
+active_time: 2015-07-21 13:43:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.0363,"namelookup_time":1.8e-5,"connect_time":9.6e-5,"pretransfer_time":0.00012}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021044015884399}}
+================================================
+active_time: 2015-07-21 13:44:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.037621,"namelookup_time":6.0e-5,"connect_time":0.00026,"pretransfer_time":0.000312}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021755933761597}}
+================================================
+active_time: 2015-07-21 13:45:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032364,"namelookup_time":1.5e-5,"connect_time":9.7e-5,"pretransfer_time":0.00012}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.018996953964233}}
+================================================
+active_time: 2015-07-21 13:46:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031959,"namelookup_time":1.5e-5,"connect_time":7.2e-5,"pretransfer_time":9.5e-5}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.01868200302124}}
+================================================
+active_time: 2015-07-21 13:47:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032375,"namelookup_time":1.6e-5,"connect_time":0.000103,"pretransfer_time":0.000126}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.018956899642944}}
+================================================
+active_time: 2015-07-21 13:48:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031867,"namelookup_time":1.9e-5,"connect_time":8.2e-5,"pretransfer_time":0.000105}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.018576145172119}}
+================================================
+active_time: 2015-07-21 13:49:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031825,"namelookup_time":1.7e-5,"connect_time":0.000163,"pretransfer_time":0.000188}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.018762826919556}}
+================================================
+active_time: 2015-07-21 13:50:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032045,"namelookup_time":1.9e-5,"connect_time":0.00012,"pretransfer_time":0.000143}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.018731117248535}}
+================================================
+active_time: 2015-07-21 13:51:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.047039,"namelookup_time":6.6e-5,"connect_time":0.00034,"pretransfer_time":0.000416}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.023519992828369}}
+================================================
+active_time: 2015-07-21 13:52:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.04241,"namelookup_time":4.7e-5,"connect_time":0.000186,"pretransfer_time":0.000217}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020164012908936}}
+================================================
+active_time: 2015-07-21 13:53:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032314,"namelookup_time":1.5e-5,"connect_time":9.7e-5,"pretransfer_time":0.000119}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.018942832946777}}
+================================================
+active_time: 2015-07-21 13:54:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032552,"namelookup_time":1.5e-5,"connect_time":0.000104,"pretransfer_time":0.000138}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019057989120483}}
+================================================
+active_time: 2015-07-21 13:55:40
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032402,"namelookup_time":1.6e-5,"connect_time":7.3e-5,"pretransfer_time":9.5e-5}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.018936157226562}}
+================================================
+active_time: 2015-07-21 13:56:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031812,"namelookup_time":1.4e-5,"connect_time":7.2e-5,"pretransfer_time":9.4e-5}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.018630027770996}}
+================================================
+active_time: 2015-07-21 13:57:42
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032356,"namelookup_time":1.6e-5,"connect_time":8.7e-5,"pretransfer_time":0.000111}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.018894195556641}}
+================================================
+active_time: 2015-07-21 13:58:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.101307,"namelookup_time":1.8e-5,"connect_time":8.4e-5,"pretransfer_time":0.000108}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.022277116775513}}
+================================================
+active_time: 2015-07-21 13:59:39
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.041346,"namelookup_time":2.4e-5,"connect_time":0.000111,"pretransfer_time":0.000139}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.024622917175293}}

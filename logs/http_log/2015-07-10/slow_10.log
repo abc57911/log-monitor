@@ -1,0 +1,28 @@
+================================================
+active_time: 2015-07-10 10:41:57
+SCRIPT_NAME: /chk_rule.php
+REQUEST_URI: /chk_rule.php
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+type: PUT
+url: http://10.251.11.169:80/api/login
+status: 200
+exectime: {"total_time":7.534731,"namelookup_time":4.2e-5,"connect_time":7.017896,"pretransfer_time":7.017947}
+headers: ["Sensitive-Data: entrance=3&operator=&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fchk_rule.php+line+%3A2&operator_id=&vendor=rde","Host: sk.dev.d2"]
+param: {"username":"qq6699","password":"qwe123","ip":"127.0.0.1","domain":10000001,"entrance":3}
+POST data: {"action":"login","check_id":"","CQ":"17","SS":"97600","SR":"58755200","TS":"1495153711","loginname":"qq6699","password":"qwe123","rmNum":"3672"}
+out: {"ret":{"login_user":{"id":11444833,"username":"qq6699","domain":10000001,"alias":"\u8a79\u59c6\u58eb","sub":false,"enable":true,"block":false,"bankrupt":false,"test":false,"hidden_test":false,"size":0,"err_num":0,"currency":"CNY","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-10T10:42:05+0800","password_expire_at":"2015-08-02T12:04:44+0800","password_reset":false,"last_bank":null,"role":1,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"session_id":"63b40b79b316f30c42daacd91573e760718e8240"},"login_result":1},"result":"ok","profile":{"execution_time":435,"server_number":"95"}}
+================================================
+active_time: 2015-07-10 10:42:11
+SCRIPT_NAME: /chk_rule.php
+REQUEST_URI: /chk_rule.php
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+type: GET
+url: http://10.251.11.169:80/api/session/63b40b79b316f30c42daacd91573e760718e8240
+status: 200
+exectime: {"total_time":63.135869,"namelookup_time":7.8e-5,"connect_time":63.121752,"pretransfer_time":63.121831}
+headers: ["Sensitive-Data: entrance=3&operator=qq6699&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fchk_rule.php+line+%3A2&operator_id=11444833&vendor=rde","Host: sk.dev.d2"]
+param: []
+POST data: {"action":"login","check_id":"","CQ":"17","SS":"97600","SR":"58755200","TS":"1495153711","loginname":"qq6699","password":"qwe123","rmNum":"3672"}
+out: {"result":"ok","ret":{"session":{"id":"63b40b79b316f30c42daacd91573e760718e8240","created_at":"2015-07-10T10:42:05+0800","modified_at":""},"user":{"id":"11444833","username":"qq6699","domain":"10000001","alias":"詹姆士","sub":"","enable":"1","block":"","bankrupt":"","test":"","hidden_test":"","size":"0","currency":"CNY","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-10T10:42:05+0800","last_bank":"","role":"1","all_parents":["11444832","11444831","11444830","11444829","10000001","10000000"]}}}

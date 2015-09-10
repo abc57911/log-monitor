@@ -1,0 +1,600 @@
+================================================
+active_time: 2015-07-21 18:00:20
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":0.045712,"namelookup_time":4.3e-5,"connect_time":0.007428,"pretransfer_time":0.007495}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444833
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/api_controller/User.php(12) Call:instance
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T17:04:30+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":19,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:00:20
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444829
+status: 200
+exectime: {"total_time":0.031304,"namelookup_time":3.7e-5,"connect_time":0.007259,"pretransfer_time":0.007296}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444829
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(412) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(44) Call:getLine
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444829,"parent":10000001,"all_parents":[10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:28:08+0800","modified_at":"2015-07-20T17:59:32+0800","last_login":"2015-07-21T14:39:07+0800","currency":"CNY","password_expire_at":"2015-08-19T17:59:31+0800","username":"ff6699","enable":true,"block":false,"sub":false,"size":4,"err_num":0}],"result":"ok","profile":{"execution_time":10,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:00:20
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/10000001
+status: 200
+exectime: {"total_time":0.036895,"namelookup_time":1.9e-5,"connect_time":0.007065,"pretransfer_time":0.007096}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__10000001
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(270) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(56) Call:isEnableGame
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":10000001,"parent":10000000,"all_parents":[10000000],"alias":"SK2\u5ef3\u4e3b","created_at":"2009-04-07T18:28:35+0800","modified_at":"2015-07-03T15:51:08+0800","last_login":"2015-07-03T15:50:36+0800","currency":"CNY","password_expire_at":"2015-08-02T15:51:08+0800","username":"esk2","enable":true,"block":false,"sub":false,"size":128,"err_num":1}],"result":"ok","profile":{"execution_time":15,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:00:51
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":0.033105,"namelookup_time":2.8e-5,"connect_time":0.00726,"pretransfer_time":0.007309}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444833
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/api_controller/User.php(12) Call:instance
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T17:04:30+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":11,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:00:51
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444829
+status: 200
+exectime: {"total_time":0.032875,"namelookup_time":3.7e-5,"connect_time":0.007541,"pretransfer_time":0.007633}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444829
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(412) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(44) Call:getLine
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444829,"parent":10000001,"all_parents":[10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:28:08+0800","modified_at":"2015-07-20T17:59:32+0800","last_login":"2015-07-21T14:39:07+0800","currency":"CNY","password_expire_at":"2015-08-19T17:59:31+0800","username":"ff6699","enable":true,"block":false,"sub":false,"size":4,"err_num":0}],"result":"ok","profile":{"execution_time":10,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:00:51
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/10000001
+status: 200
+exectime: {"total_time":0.032029,"namelookup_time":3.8e-5,"connect_time":0.007553,"pretransfer_time":0.007614}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__10000001
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(270) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(56) Call:isEnableGame
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":10000001,"parent":10000000,"all_parents":[10000000],"alias":"SK2\u5ef3\u4e3b","created_at":"2009-04-07T18:28:35+0800","modified_at":"2015-07-03T15:51:08+0800","last_login":"2015-07-03T15:50:36+0800","currency":"CNY","password_expire_at":"2015-08-02T15:51:08+0800","username":"esk2","enable":true,"block":false,"sub":false,"size":128,"err_num":1}],"result":"ok","profile":{"execution_time":10,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:01:22
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":0.03873,"namelookup_time":2.4e-5,"connect_time":0.007342,"pretransfer_time":0.007427}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444833
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/api_controller/User.php(12) Call:instance
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T17:04:30+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":15,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:01:22
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444829
+status: 200
+exectime: {"total_time":0.033082,"namelookup_time":2.9e-5,"connect_time":0.007434,"pretransfer_time":0.007477}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444829
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(412) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(44) Call:getLine
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444829,"parent":10000001,"all_parents":[10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:28:08+0800","modified_at":"2015-07-20T17:59:32+0800","last_login":"2015-07-21T14:39:07+0800","currency":"CNY","password_expire_at":"2015-08-19T17:59:31+0800","username":"ff6699","enable":true,"block":false,"sub":false,"size":4,"err_num":0}],"result":"ok","profile":{"execution_time":11,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:01:22
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/10000001
+status: 200
+exectime: {"total_time":0.033013,"namelookup_time":3.9e-5,"connect_time":0.007396,"pretransfer_time":0.007484}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__10000001
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(270) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(56) Call:isEnableGame
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":10000001,"parent":10000000,"all_parents":[10000000],"alias":"SK2\u5ef3\u4e3b","created_at":"2009-04-07T18:28:35+0800","modified_at":"2015-07-03T15:51:08+0800","last_login":"2015-07-03T15:50:36+0800","currency":"CNY","password_expire_at":"2015-08-02T15:51:08+0800","username":"esk2","enable":true,"block":false,"sub":false,"size":128,"err_num":1}],"result":"ok","profile":{"execution_time":11,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:01:53
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":0.068837,"namelookup_time":5.9e-5,"connect_time":0.007483,"pretransfer_time":0.007547}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444833
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/api_controller/User.php(12) Call:instance
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T17:04:30+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":45,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:01:53
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444829
+status: 200
+exectime: {"total_time":0.044691,"namelookup_time":3.6e-5,"connect_time":0.007416,"pretransfer_time":0.007461}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444829
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(412) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(44) Call:getLine
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444829,"parent":10000001,"all_parents":[10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:28:08+0800","modified_at":"2015-07-20T17:59:32+0800","last_login":"2015-07-21T14:39:07+0800","currency":"CNY","password_expire_at":"2015-08-19T17:59:31+0800","username":"ff6699","enable":true,"block":false,"sub":false,"size":4,"err_num":0}],"result":"ok","profile":{"execution_time":21,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:01:53
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/10000001
+status: 200
+exectime: {"total_time":0.05284,"namelookup_time":2.0e-5,"connect_time":0.007164,"pretransfer_time":0.007206}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__10000001
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(270) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(56) Call:isEnableGame
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":10000001,"parent":10000000,"all_parents":[10000000],"alias":"SK2\u5ef3\u4e3b","created_at":"2009-04-07T18:28:35+0800","modified_at":"2015-07-03T15:51:08+0800","last_login":"2015-07-03T15:50:36+0800","currency":"CNY","password_expire_at":"2015-08-02T15:51:08+0800","username":"esk2","enable":true,"block":false,"sub":false,"size":128,"err_num":1}],"result":"ok","profile":{"execution_time":30,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:02:25
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":0.053918,"namelookup_time":2.6e-5,"connect_time":0.007204,"pretransfer_time":0.007252}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444833
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/api_controller/User.php(12) Call:instance
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T17:04:30+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":30,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:02:25
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444829
+status: 200
+exectime: {"total_time":0.044079,"namelookup_time":3.2e-5,"connect_time":0.007289,"pretransfer_time":0.007326}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444829
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(412) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(44) Call:getLine
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444829,"parent":10000001,"all_parents":[10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:28:08+0800","modified_at":"2015-07-20T17:59:32+0800","last_login":"2015-07-21T14:39:07+0800","currency":"CNY","password_expire_at":"2015-08-19T17:59:31+0800","username":"ff6699","enable":true,"block":false,"sub":false,"size":4,"err_num":0}],"result":"ok","profile":{"execution_time":22,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:02:25
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/10000001
+status: 200
+exectime: {"total_time":0.043142,"namelookup_time":1.9e-5,"connect_time":0.007291,"pretransfer_time":0.007323}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__10000001
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(270) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(56) Call:isEnableGame
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":10000001,"parent":10000000,"all_parents":[10000000],"alias":"SK2\u5ef3\u4e3b","created_at":"2009-04-07T18:28:35+0800","modified_at":"2015-07-03T15:51:08+0800","last_login":"2015-07-03T15:50:36+0800","currency":"CNY","password_expire_at":"2015-08-02T15:51:08+0800","username":"esk2","enable":true,"block":false,"sub":false,"size":128,"err_num":1}],"result":"ok","profile":{"execution_time":21,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:02:56
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":0.096996,"namelookup_time":5.2e-5,"connect_time":0.007516,"pretransfer_time":0.007638}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444833
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/api_controller/User.php(12) Call:instance
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T17:04:30+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":70,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:02:56
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444829
+status: 200
+exectime: {"total_time":0.038316,"namelookup_time":2.4e-5,"connect_time":0.007158,"pretransfer_time":0.007194}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444829
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(412) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(44) Call:getLine
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444829,"parent":10000001,"all_parents":[10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:28:08+0800","modified_at":"2015-07-20T17:59:32+0800","last_login":"2015-07-21T14:39:07+0800","currency":"CNY","password_expire_at":"2015-08-19T17:59:31+0800","username":"ff6699","enable":true,"block":false,"sub":false,"size":4,"err_num":0}],"result":"ok","profile":{"execution_time":14,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:02:57
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/10000001
+status: 200
+exectime: {"total_time":0.034612,"namelookup_time":1.4e-5,"connect_time":0.00736,"pretransfer_time":0.007438}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__10000001
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(270) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(56) Call:isEnableGame
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":10000001,"parent":10000000,"all_parents":[10000000],"alias":"SK2\u5ef3\u4e3b","created_at":"2009-04-07T18:28:35+0800","modified_at":"2015-07-03T15:51:08+0800","last_login":"2015-07-03T15:50:36+0800","currency":"CNY","password_expire_at":"2015-08-02T15:51:08+0800","username":"esk2","enable":true,"block":false,"sub":false,"size":128,"err_num":1}],"result":"ok","profile":{"execution_time":12,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:03:28
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":0.044059,"namelookup_time":3.0e-5,"connect_time":0.007352,"pretransfer_time":0.007414}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444833
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/api_controller/User.php(12) Call:instance
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T17:04:30+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":19,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:03:28
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444829
+status: 200
+exectime: {"total_time":0.03388,"namelookup_time":2.6e-5,"connect_time":0.007187,"pretransfer_time":0.007222}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444829
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(412) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(44) Call:getLine
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444829,"parent":10000001,"all_parents":[10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:28:08+0800","modified_at":"2015-07-20T17:59:32+0800","last_login":"2015-07-21T14:39:07+0800","currency":"CNY","password_expire_at":"2015-08-19T17:59:31+0800","username":"ff6699","enable":true,"block":false,"sub":false,"size":4,"err_num":0}],"result":"ok","profile":{"execution_time":12,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:03:28
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/10000001
+status: 200
+exectime: {"total_time":0.03391,"namelookup_time":1.4e-5,"connect_time":0.007169,"pretransfer_time":0.0072}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__10000001
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(270) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(56) Call:isEnableGame
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":10000001,"parent":10000000,"all_parents":[10000000],"alias":"SK2\u5ef3\u4e3b","created_at":"2009-04-07T18:28:35+0800","modified_at":"2015-07-03T15:51:08+0800","last_login":"2015-07-03T15:50:36+0800","currency":"CNY","password_expire_at":"2015-08-02T15:51:08+0800","username":"esk2","enable":true,"block":false,"sub":false,"size":128,"err_num":1}],"result":"ok","profile":{"execution_time":12,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:03:58
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444833
+status: 200
+exectime: {"total_time":0.038841,"namelookup_time":4.3e-5,"connect_time":0.007856,"pretransfer_time":0.007946}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444833
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/api_controller/User.php(12) Call:instance
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444833,"parent":11444832,"all_parents":[11444832,11444831,11444830,11444829,10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:59:48+0800","modified_at":"2015-07-03T12:04:44+0800","last_login":"2015-07-21T17:04:30+0800","currency":"CNY","password_expire_at":"2015-08-02T12:04:44+0800","username":"qq6699","enable":true,"block":false,"sub":false,"size":0,"err_num":0}],"result":"ok","profile":{"execution_time":15,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:03:58
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/11444829
+status: 200
+exectime: {"total_time":0.032685,"namelookup_time":5.5e-5,"connect_time":0.007355,"pretransfer_time":0.007396}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__11444829
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(412) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(44) Call:getLine
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":11444829,"parent":10000001,"all_parents":[10000001,10000000],"alias":"\u8a79\u59c6\u58eb","created_at":"2014-11-04T14:28:08+0800","modified_at":"2015-07-20T17:59:32+0800","last_login":"2015-07-21T14:39:07+0800","currency":"CNY","password_expire_at":"2015-08-19T17:59:31+0800","username":"ff6699","enable":true,"block":false,"sub":false,"size":4,"err_num":0}],"result":"ok","profile":{"execution_time":10,"server_number":"126"}}
+================================================
+active_time: 2015-07-21 18:03:58
+SCRIPT_NAME: /api/router.php
+REQUEST_URI: /api/router.php?user_id=11444833&handle=getLines&class=User
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: 
+type: GET
+url: http://10.251.11.169:80/api/user/10000001
+status: 200
+exectime: {"total_time":0.033404,"namelookup_time":2.0e-5,"connect_time":0.007121,"pretransfer_time":0.007163}
+DEBUG trace: file:/home/disney/company/new-nsk/common/acc_api/ACC.php(238) Call:GetDebug
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:__callStatic
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(419) Call:user__10000001
+file:/home/disney/company/new-nsk/common/acc_api/ACC/User.php(444) Call:BufferSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(211) Call:GetSinglSeting
+file:/home/disney/company/new-nsk/business_classes/User/UserManager.php(31) Call:getParentsIdById
+file:/home/disney/company/new-nsk/business_classes/User/abstractUser.php(270) Call:instance
+file:/home/disney/company/new-nsk/business_classes/User/UserMEM.php(56) Call:isEnableGame
+file:/home/disney/company/new-nsk/business_classes/User/UserPitaya.php(122) Call:getLine
+file:/home/disney/company/new-nsk/api_controller/User.php(17) Call:getLine
+file:/home/disney/company/new-nsk/ClassLibrary/lib_php/model/Router/Router.php(91) Call:getLines
+file:/home/disney/company/new-nsk/www/api/router.php(42) Call:execute
+headers: ["Sensitive-Data: entrance=1&client_ip=127.0.0.1&run_php=%2Fhome%2Fdisney%2Fcompany%2Fnew-nsk%2Fwww%2Fapi%2Frouter.php+line+%3A42&vendor=rde","Host: sk.dev.d2"]
+param: {"fields":{"id":"id","username":"username","alias":"alias","sub":"sub","enable":"enable","block":"block","size":"size","err_num":"err_num","created_at":"created_at","modified_at":"modified_at","password_expire_at":"password_expire_at","last_login":"last_login","currency":"currency","parent":"parent","all_parents":"all_parents"}}
+POST data: ["\u900f\u904eAPI\u6240\u4ee5$_POST\u88ab\u79fb\u9664\u4e86,\u539f\u59cbPOST\u8cc7\u6599\u70baArray\n(\n)\n"]
+out: {"ret":[{"id":10000001,"parent":10000000,"all_parents":[10000000],"alias":"SK2\u5ef3\u4e3b","created_at":"2009-04-07T18:28:35+0800","modified_at":"2015-07-03T15:51:08+0800","last_login":"2015-07-03T15:50:36+0800","currency":"CNY","password_expire_at":"2015-08-02T15:51:08+0800","username":"esk2","enable":true,"block":false,"sub":false,"size":128,"err_num":1}],"result":"ok","profile":{"execution_time":11,"server_number":"126"}}

@@ -1,0 +1,715 @@
+================================================
+active_time: 2015-08-17 12:28:52
+SCRIPT_NAME: /chk_rule.php
+REQUEST_URI: /chk_rule.php
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: POST
+url: http://127.0.0.1:80/pt/api/user/exclude
+status: 200
+exectime: {"total_time":0.017165,"namelookup_time":2.3e-5,"connect_time":0.000109,"pretransfer_time":0.000137}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:72
+    >   /home/disney/company/new-nsk/business_classes/Pitaya.php:171
+    >   /home/disney/company/new-nsk/www/lib/login_mem.php:459
+    >   /home/disney/company/new-nsk/www/chk_rule.php:2
+
+param: {"userid":[11623293],"scope":2,"timestamp":1439785727}
+POST data: {"userid":[11623293],"scope":2,"timestamp":1439785727}
+out: {"ret":null,"error":null,"code":null,"result":true,"profile":{"execute_time":0.0049021244049072}}
+================================================
+active_time: 2015-08-17 12:28:59
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.037646,"namelookup_time":1.7e-5,"connect_time":0.000105,"pretransfer_time":0.000136}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021436929702759}}
+================================================
+active_time: 2015-08-17 12:29:59
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032903,"namelookup_time":2.4e-5,"connect_time":0.000108,"pretransfer_time":0.000136}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020145893096924}}
+================================================
+active_time: 2015-08-17 12:30:12
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.033228,"namelookup_time":2.4e-5,"connect_time":0.000116,"pretransfer_time":0.000146}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020190000534058}}
+================================================
+active_time: 2015-08-17 12:30:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.042253,"namelookup_time":2.1e-5,"connect_time":0.00011,"pretransfer_time":0.000138}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.023380041122437}}
+================================================
+active_time: 2015-08-17 12:31:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.034605,"namelookup_time":2.5e-5,"connect_time":0.00013,"pretransfer_time":0.000159}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021408796310425}}
+================================================
+active_time: 2015-08-17 12:32:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.0343,"namelookup_time":2.6e-5,"connect_time":0.000132,"pretransfer_time":0.000166}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020266056060791}}
+================================================
+active_time: 2015-08-17 12:33:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.03413,"namelookup_time":2.4e-5,"connect_time":0.000111,"pretransfer_time":0.000139}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020537853240967}}
+================================================
+active_time: 2015-08-17 12:34:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.034229,"namelookup_time":2.3e-5,"connect_time":0.000109,"pretransfer_time":0.000138}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021451950073242}}
+================================================
+active_time: 2015-08-17 12:35:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.033717,"namelookup_time":2.3e-5,"connect_time":0.000135,"pretransfer_time":0.000177}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020570993423462}}
+================================================
+active_time: 2015-08-17 12:36:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031956,"namelookup_time":1.1e-5,"connect_time":6.8e-5,"pretransfer_time":9.1e-5}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019532918930054}}
+================================================
+active_time: 2015-08-17 12:37:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032436,"namelookup_time":1.8e-5,"connect_time":9.6e-5,"pretransfer_time":0.000121}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019718170166016}}
+================================================
+active_time: 2015-08-17 12:38:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032641,"namelookup_time":2.2e-5,"connect_time":0.000103,"pretransfer_time":0.00013}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020210981369019}}
+================================================
+active_time: 2015-08-17 12:39:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.03168,"namelookup_time":1.9e-5,"connect_time":9.3e-5,"pretransfer_time":0.00012}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019253969192505}}
+================================================
+active_time: 2015-08-17 12:40:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031803,"namelookup_time":1.1e-5,"connect_time":7.8e-5,"pretransfer_time":0.000102}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019338846206665}}
+================================================
+active_time: 2015-08-17 12:41:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032249,"namelookup_time":4.1e-5,"connect_time":0.000126,"pretransfer_time":0.000157}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019903898239136}}
+================================================
+active_time: 2015-08-17 12:42:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.033343,"namelookup_time":2.5e-5,"connect_time":0.000138,"pretransfer_time":0.00017}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020190954208374}}
+================================================
+active_time: 2015-08-17 12:43:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032566,"namelookup_time":2.5e-5,"connect_time":0.00011,"pretransfer_time":0.000136}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019922018051147}}
+================================================
+active_time: 2015-08-17 12:44:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031583,"namelookup_time":1.4e-5,"connect_time":8.6e-5,"pretransfer_time":0.00011}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019307851791382}}
+================================================
+active_time: 2015-08-17 12:45:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031503,"namelookup_time":1.6e-5,"connect_time":9.2e-5,"pretransfer_time":0.000116}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019354104995728}}
+================================================
+active_time: 2015-08-17 12:46:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031005,"namelookup_time":1.5e-5,"connect_time":7.8e-5,"pretransfer_time":0.000102}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019133806228638}}
+================================================
+active_time: 2015-08-17 12:47:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.033529,"namelookup_time":2.1e-5,"connect_time":0.000101,"pretransfer_time":0.000129}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019678115844727}}
+================================================
+active_time: 2015-08-17 12:48:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.034721,"namelookup_time":2.1e-5,"connect_time":0.00012,"pretransfer_time":0.000149}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.021316051483154}}
+================================================
+active_time: 2015-08-17 12:49:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031514,"namelookup_time":1.4e-5,"connect_time":8.0e-5,"pretransfer_time":0.000103}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019293069839478}}
+================================================
+active_time: 2015-08-17 12:50:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.035297,"namelookup_time":2.4e-5,"connect_time":0.000192,"pretransfer_time":0.00022}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.022071838378906}}
+================================================
+active_time: 2015-08-17 12:51:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031676,"namelookup_time":1.3e-5,"connect_time":7.8e-5,"pretransfer_time":0.000102}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.01935601234436}}
+================================================
+active_time: 2015-08-17 12:52:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.033591,"namelookup_time":2.3e-5,"connect_time":0.000106,"pretransfer_time":0.00016}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020352125167847}}
+================================================
+active_time: 2015-08-17 12:53:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032936,"namelookup_time":1.7e-5,"connect_time":8.7e-5,"pretransfer_time":0.000112}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020029067993164}}
+================================================
+active_time: 2015-08-17 12:54:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032048,"namelookup_time":2.1e-5,"connect_time":0.000102,"pretransfer_time":0.000129}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.020174026489258}}
+================================================
+active_time: 2015-08-17 12:55:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.032206,"namelookup_time":2.3e-5,"connect_time":0.000103,"pretransfer_time":0.000132}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019340991973877}}
+================================================
+active_time: 2015-08-17 12:56:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031573,"namelookup_time":1.3e-5,"connect_time":7.6e-5,"pretransfer_time":9.9e-5}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019299030303955}}
+================================================
+active_time: 2015-08-17 12:57:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031254,"namelookup_time":1.5e-5,"connect_time":8.1e-5,"pretransfer_time":0.00011}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019361019134521}}
+================================================
+active_time: 2015-08-17 12:58:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031717,"namelookup_time":2.0e-5,"connect_time":0.000111,"pretransfer_time":0.000137}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019459009170532}}
+================================================
+active_time: 2015-08-17 12:59:50
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=SH3D&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.031793,"namelookup_time":1.2e-5,"connect_time":7.9e-5,"pretransfer_time":0.000103}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"SH3D","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.019483089447021}}

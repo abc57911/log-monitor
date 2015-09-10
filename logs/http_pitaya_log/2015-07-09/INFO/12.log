@@ -1,0 +1,65 @@
+================================================
+active_time: 2015-07-09 12:14:42
+SCRIPT_NAME: /chk_rule.php
+REQUEST_URI: /chk_rule.php
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+type: POST
+url: http://127.0.0.1:80/pt/api/user/exclude
+status: 200
+exectime: {"total_time":0.286597,"namelookup_time":2.3e-5,"connect_time":0.000141,"pretransfer_time":0.000174}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:72
+    >   /home/disney/company/new-nsk/business_classes/Pitaya.php:171
+    >   /home/disney/company/new-nsk/www/lib/login_mem.php:446
+    >   /home/disney/company/new-nsk/www/chk_rule.php:2
+
+param: {"userid":[11444833],"scope":2,"timestamp":1436415277}
+POST data: {"userid":[11444833],"scope":2,"timestamp":1436415277}
+out: {"ret":null,"error":null,"code":null,"result":true,"profile":{"execute_time":0.25583505630493}}
+================================================
+active_time: 2015-07-09 12:22:14
+SCRIPT_NAME: /chk_rule.php
+REQUEST_URI: /chk_rule.php
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+type: POST
+url: http://127.0.0.1:80/pt/api/user/exclude
+status: 200
+exectime: {"total_time":0.037589,"namelookup_time":2.9e-5,"connect_time":0.000176,"pretransfer_time":0.000216}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:72
+    >   /home/disney/company/new-nsk/business_classes/Pitaya.php:171
+    >   /home/disney/company/new-nsk/www/lib/login_mem.php:447
+    >   /home/disney/company/new-nsk/www/chk_rule.php:2
+
+param: {"userid":[11444833],"scope":2,"timestamp":1436415729}
+POST data: {"userid":[11444833],"scope":2,"timestamp":1436415729}
+out: {"ret":null,"error":null,"code":null,"result":true,"profile":{"execute_time":0.019309043884277}}
+================================================
+active_time: 2015-07-09 12:22:28
+SCRIPT_NAME: /member/longdragon_ajax.php
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=BBPK&tab=opposite&type=win&getmore=false
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+type: GET
+url: http://127.0.0.1:80/pt/api/longdragon/data
+status: 200
+exectime: {"total_time":0.348897,"namelookup_time":0.000126,"connect_time":0.000555,"pretransfer_time":0.00066}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:66
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:139
+    >   /home/disney/company/new-nsk/www/member/longdragon_ajax.php:53
+
+param: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+POST data: {"lang":"gb","game":"BBPK","tab":"opposite","type":"win"}
+out: {"ret":[],"error":null,"code":null,"result":true,"profile":{"execute_time":0.23423004150391}}

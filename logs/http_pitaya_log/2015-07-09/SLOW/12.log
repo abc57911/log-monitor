@@ -1,0 +1,21 @@
+================================================
+active_time: 2015-07-09 12:18:31
+SCRIPT_NAME: /logout.php
+REQUEST_URI: /logout.php
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+type: POST
+url: http://127.0.0.1:80/pt/api/user/logout
+status: 200
+exectime: {"total_time":19.270379,"namelookup_time":5.3e-5,"connect_time":0.000314,"pretransfer_time":0.000381}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:72
+    >   /home/disney/company/new-nsk/business_classes/Pitaya.php:340
+    >   /home/disney/company/new-nsk/www/logout.php:18
+
+param: {"sid":"1us1va5rq0aqfdum3tnl0borv2"}
+POST data: {"sid":"1us1va5rq0aqfdum3tnl0borv2"}
+out: {"ret":[2],"error":null,"code":null,"result":true,"profile":{"execute_time":0.001924991607666}}

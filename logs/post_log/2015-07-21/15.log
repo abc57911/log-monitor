@@ -1,0 +1,36 @@
+###############################################################################
+Datetime: 2015-07-21 15:29:01
+LoginData: member-qq6699
+REMOTE_ADDR: 127.0.0.1:40968
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_COOKIE: {"GoldCatch":"Array(10,20,50,100)","EnableGold":"0","nsk_webver":"3b4bc10","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","bbpkflash":"false","bbinwin":"false","_ga":"GA1.2.2065421330.1436412210","mfid":"x-OOcI_GYlUewxLXRbXeB3uVip3ecVyGQcq2YKCMXShUOYlLuMfaZYFPVwQhZ5LHzU2laKGc_HJf2caLceSJPDVSZWtwcTc3VlR4MUhNanJpOWJuaFIybUY1RWdtQ1p4QjFGVHRydDRlY0E","charset":"gb","__utmt":"1","__utma":"1.2065421330.1436412210.1437447588.1437463737.9","__utmb":"1.1.10.1437463737","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"168","SS":"1018700","SR":"493050800","TS":"1929495836","loginname":"qq6699","password":"qwe123","rmNum":"2952"}
+###############################################################################
+Datetime: 2015-07-21 15:54:19
+LoginData: member-qq6699
+REMOTE_ADDR: 127.0.0.1:42093
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_COOKIE: {"GoldCatch":"Array(10,20,50,100)","EnableGold":"0","nsk_webver":"3b4bc10","bbpkflash":"false","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","bbinwin":"true","_ga":"GA1.2.2065421330.1436412210","mfid":"2LpTvvF1sF03LFzSYJo2aC6Q1-UjUcJ7tNh-RO2E8P56G8Lx1y9qUk-TvVfTPsK8a-4Awdu3yiaeuXJv9SKIw0xvMjZQbFZtZS10UE5TdzlUVFNfV3lmRWNXanY4ZHUzMV81UnRVSlhVbGM","charset":"gb","__utmt":"1","__utma":"1.2065421330.1436412210.1437447588.1437463737.9","__utmb":"1.2.10.1437463737","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"168","SS":"1018700","SR":"302553900","TS":"1739000456","loginname":"qq6699","password":"qwe123","rmNum":"1811"}
+###############################################################################
+Datetime: 2015-07-21 15:55:17
+LoginData: member-qq6699
+REMOTE_ADDR: 127.0.0.1:42092
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_COOKIE: {"GoldCatch":"Array(10,20,50,100)","EnableGold":"0","nsk_webver":"3b4bc10","bbpkflash":"false","__utmt":"1","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","bbinwin":"true","_ga":"GA1.2.2065421330.1436412210","_gat":"1","mfid":"WCuGqHFwwZfzPREJDZxM6GbAgPB0GI1xqR8ED7OWD2tKCue-xp7v4TFk5Ji3mY7OwtK9A8VxouM4MXX1WoQ0g0ktRV9LQmN3b1lLZEZzaXB6R29EODF2djgzeWwwYnpYMzdPV1VsUE1pZ1U","charset":"gb","__utma":"1.2065421330.1436412210.1437447588.1437463737.9","__utmb":"1.4.10.1437463737","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"168","SS":"1018700","SR":"630575300","TS":"2067021914","loginname":"qq6699","password":"qwe123","rmNum":"3776"}

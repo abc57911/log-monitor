@@ -1,0 +1,12 @@
+###############################################################################
+Datetime: 2015-07-22 09:18:41
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:44847
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_COOKIE: {"bbpkflash":"false","GoldCatch":"Array(10,20,50,100)","EnableGold":"1","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","bbinwin":"true","_ga":"GA1.2.2065421330.1436412210","nsk_webver":"3b4bc10","mfid":"2LpTvvF1sF03LFzSYJo2aDbhXGSDqxZfbKVWmJwcylHEsPmd2_Cn-DKA52b-vxq-vbJjbd1HJZ81WpM12y77uy1PNjhJbUl1YUxfcmxRQnlnUkkyU0RuU1l6TTBULVgzUzhwSXdhakpSNUU","charset":"gb","__utmt":"1","__utma":"1.2065421330.1436412210.1437524585.1437527918.11","__utmb":"1.1.10.1437527918","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"15","SS":"85400","SR":"35782600","TS":"1473225116","loginname":"qq6699","password":"qwe123","rmNum":"2556"}

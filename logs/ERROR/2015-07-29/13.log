@@ -1,0 +1,1 @@
+<?php $log[]='{"Time":"13:05:59","IP":"127.0.0.1","PORT":"42863","IP2":false,"IP3":false,"HOST":"mem.sk2.lottery","URI":"\/api\/router.php?user_id=11444833&handle=getLines&class=User","AGENT":false,"COOKIE":false,"REFERER":false,"POST":[],"MESSAGE":"System Error:#0001 \n<!--SQL: mysql connect error #2013 @103.240.217.184\/\/-->\n\n"}';?>

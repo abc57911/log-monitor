@@ -1,0 +1,24 @@
+###############################################################################
+Datetime: 2015-07-20 17:43:06
+LoginData: -
+REMOTE_ADDR: 127.0.0.1:60055
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_COOKIE: {"GoldCatch":"Array(10,20,50,100)","EnableGold":"0","_ga":"GA1.2.2065421330.1436412210","mfid":"WCuGqHFwwZfzPREJDZxM6KKkVJtTURG9S3icOkNejQIP_-pqo6LU0QAd9TExSDDbTueJPysMEvIcha-4hlZlMFBEOXB6NHFodGxoOVdlcUtpWmFQeGN5R0FmV2pXTFBqR3FKNnF2cjYyVTA","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","bbinwin":"true","nsk_webver":"b32d150","charset":"gb","__utmt":"1","__utma":"1.2065421330.1436412210.1436495990.1437385375.5","__utmb":"1.1.10.1437385375","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"915","SS":"5575400","SR":"3629585400","TS":"5061395374","loginname":"qq6699","password":"qwe123","rmNum":"3971"}
+###############################################################################
+Datetime: 2015-07-20 17:43:58
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:60087
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_COOKIE: {"GoldCatch":"Array(10,20,50,100)","EnableGold":"0","_ga":"GA1.2.2065421330.1436412210","mfid":"WCuGqHFwwZfzPREJDZxM6KKkVJtTURG9S3icOkNejQIP_-pqo6LU0QAd9TExSDDbTueJPysMEvIcha-4hlZlMFBEOXB6NHFodGxoOVdlcUtpWmFQeGN5R0FmV2pXTFBqR3FKNnF2cjYyVTA","bbinwin":"true","nsk_webver":"b32d150","__utmt":"1","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","charset":"gb","__utma":"1.2065421330.1436412210.1436495990.1437385375.5","__utmb":"1.2.10.1437385375","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"915","SS":"5575400","SR":"1884485200","TS":"3316295192","loginname":"qq6699","password":"qwe123","rmNum":"2062"}

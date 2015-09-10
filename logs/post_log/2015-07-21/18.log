@@ -1,0 +1,48 @@
+###############################################################################
+Datetime: 2015-07-21 18:00:24
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:48057
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/pt/mem/order/GXSF
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=GXSF&tab=opposite&type=win&getmore=false
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_REQUEST: {"lang":"gb","game":"GXSF","tab":"opposite","type":"win","getmore":"false"}
+Message: Login Status: No User.
+###############################################################################
+Datetime: 2015-07-21 18:01:24
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:48057
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/pt/mem/order/GXSF
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=GXSF&tab=opposite&type=win&getmore=false
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_REQUEST: {"lang":"gb","game":"GXSF","tab":"opposite","type":"win","getmore":"false"}
+Message: Login Status: No User.
+###############################################################################
+Datetime: 2015-07-21 18:02:25
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:48057
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/pt/mem/order/GXSF
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=GXSF&tab=opposite&type=win&getmore=false
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_REQUEST: {"lang":"gb","game":"GXSF","tab":"opposite","type":"win","getmore":"false"}
+Message: Login Status: No User.
+###############################################################################
+Datetime: 2015-07-21 18:03:24
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:48492
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/pt/mem/order/GXSF
+REQUEST_URI: /member/longdragon_ajax.php?lang=gb&game=GXSF&tab=opposite&type=win&getmore=false
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+HTTP_REQUEST: {"lang":"gb","game":"GXSF","tab":"opposite","type":"win","getmore":"false"}
+Message: Login Status: No User.

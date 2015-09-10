@@ -1,0 +1,22 @@
+================================================
+active_time: 2015-07-22 09:18:45
+SCRIPT_NAME: /chk_rule.php
+REQUEST_URI: /chk_rule.php
+REMOTE_ADDR: 127.0.0.1
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+type: POST
+url: http://127.0.0.1:80/pt/api/user/exclude
+status: 200
+exectime: {"total_time":0.0932,"namelookup_time":4.4e-5,"connect_time":0.000144,"pretransfer_time":0.000176}
+headers: ["Host:mem.sk2.lottery"]
+
+    >   /home/disney/company/new-nsk/business_classes/Log/CurlLog.php:63
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:100
+    >   /home/disney/company/new-nsk/common/pitaya_api/PITAYA.php:72
+    >   /home/disney/company/new-nsk/business_classes/Pitaya.php:171
+    >   /home/disney/company/new-nsk/www/lib/login_mem.php:459
+    >   /home/disney/company/new-nsk/www/chk_rule.php:2
+
+param: {"userid":[11444833],"scope":2,"timestamp":1437527920}
+POST data: {"userid":[11444833],"scope":2,"timestamp":1437527920}
+out: {"ret":null,"error":null,"code":null,"result":true,"profile":{"execute_time":0.048111915588379}}

@@ -1,0 +1,120 @@
+###############################################################################
+Datetime: 2015-07-09 11:23:58
+LoginData: -
+REMOTE_ADDR: 127.0.0.1:49429
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","nsk_webver":"b32d150","charset":"gb","__utmt":"1","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.1.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"2015616900","TS":"3446118208","loginname":"qq6699","password":"qwe123","rmNum":"2080"}
+###############################################################################
+Datetime: 2015-07-09 11:36:06
+LoginData: -
+REMOTE_ADDR: 127.0.0.1:49507
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"nsk_webver":"b32d150","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","charset":"gb","__utmt":"1","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.3.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"2476667100","TS":"3907169159","loginname":"qq6699","password":"qwe123","rmNum":"2556"}
+###############################################################################
+Datetime: 2015-07-09 11:37:54
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:49542
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"nsk_webver":"b32d150","__utmt":"1","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","charset":"gb","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.5.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"3120955200","TS":"4551457367","loginname":"qq6699","password":"123","rmNum":"3221"}
+###############################################################################
+Datetime: 2015-07-09 11:38:25
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:49569
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"nsk_webver":"b32d150","__utmt":"1","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","charset":"gb","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.7.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"3682490700","TS":"5112992895","loginname":"qq6699","password":"aaa000","rmNum":"3800"}
+###############################################################################
+Datetime: 2015-07-09 11:38:36
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:49569
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"nsk_webver":"b32d150","__utmt":"1","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","charset":"gb","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.8.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"3115044300","TS":"4545546510","loginname":"qweqwewq","password":"eqweqweqwe","rmNum":"3215"}
+###############################################################################
+Datetime: 2015-07-09 11:43:22
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:49619
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"nsk_webver":"b32d150","__utmt":"1","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","charset":"gb","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.9.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"3617470800","TS":"5047973018","loginname":"qq6699","password":"123","rmNum":"1231"}
+###############################################################################
+Datetime: 2015-07-09 11:43:28
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:49619
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"nsk_webver":"b32d150","__utmt":"1","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","charset":"gb","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.10.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"1572299400","TS":"3002801904","loginname":"13123","password":"123123","rmNum":"1622"}
+###############################################################################
+Datetime: 2015-07-09 11:45:46
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:49644
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"nsk_webver":"b32d150","__utmt":"1","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","charset":"gb","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.11.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"4976977800","TS":"6407480310","loginname":"qq6699","password":"qwe123","rmNum":"5137"}
+###############################################################################
+Datetime: 2015-07-09 11:49:28
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:49655
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"nsk_webver":"b32d150","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","charset":"gb","__utmt":"1","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.12.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"1820557200","TS":"3251060059","loginname":"tom02","password":"aaa0000","rmNum":"1879"}
+###############################################################################
+Datetime: 2015-07-09 11:56:48
+LoginData: member-
+REMOTE_ADDR: 127.0.0.1:49688
+HTTP_X_FORWARDED_FOR: 
+HTTP_CLIENT_IP: 
+HTTP_REFERER: http://mem.sk2.lottery/home.php
+REQUEST_URI: /chk_rule.php
+HTTP_HOST: mem.sk2.lottery
+HTTP_USER_AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
+HTTP_COOKIE: {"nsk_webver":"b32d150","PHPSESSID":"1us1va5rq0aqfdum3tnl0borv2","__utmt":"1","charset":"gb","__utma":"1.2065421330.1436412210.1436412210.1436412210.1","__utmb":"1.13.10.1436412210","__utmc":"1","__utmz":"1.1436412210.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"}
+HTTP_POST: {"action":"login","check_id":"","CQ":"970","SS":"5910900","SR":"2222498400","TS":"3653001696","loginname":"qq6699","password":"qwe123","rmNum":"2293"}
