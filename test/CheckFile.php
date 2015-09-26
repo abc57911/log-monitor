@@ -3,44 +3,89 @@ namespace  test;
 
 class CheckFile
 {
-    private $logPath;
+    private $logFile;
+    private $changeLogPath;
+    private $accDir = 'logs/ACC/';
 
     public function __construct()
     {
-        $this->logPath = 'logs/change-log';
+        $this->changeLogPath = 'logs/change-log';
+        $this->logFile = $this->accDir . date('Y-m-d') . '/' . date('H') . '.log';
     }
 
     public function check()
     {
-        $changeLog = array();
-        $changeLoad = array();
+        $lastTime = array();
+        $finalTime = array();
 
-        exec('stat logs/ACC/' . date('Y-m-d') . '/* |grep -w "File\|Change" ', $changeLoad);
-        if (!file_exists($this->logPath)) {
+        $lastTime = $this->getLastTime();
+        $finalTime = $this->getFinalTime();
+        $lastHour = exec("echo {$lastTime[0]} |awk '{print $2}'| awk -F \":\" '{print $1}'");
+        $finalTime = exec("echo {$finalTime[0]} |awk '{print $2}'| awk -F \":\" '{print $1}'");
+        var_dump($lastHour);
+        var_dump($finalTime);exit;
+        if ($finalTime == null) {
+            echo "當前無紀錄。";
+            return false;
+        }
+        if (!file_exists($this->changeLogPath) || empty($lastTime)) {
             try {
-                $this->makeChangeLog();
+                $this->makeChangeLog($finalTime[0]);
             } catch (\Exception $e) {
                 throw new \Exception($e);
             }
         }
-        exec("cat {$this->logPath}", $changeLog);
-
-        if (!$change = array_diff($changeLog, $changeLoad)) {
+        if (!$change = array_diff($lastTime, $finalTime)) {
             echo "Log資料無異動。";
             return false;
         }
 
-        $arrayKey = array_keys($change)[0] - 1;
         echo "Log資料異動！！";
-        var_dump($changeLoad[$arrayKey]);
-        $this->makeChangeLog($changeLoad);
+
+        
+        $this->makeChangeLog($finalTime[0]);
+        $newLog = $this->getNewLog($lastTime[0]);
+
+        echo "<pre>";
+        print_r($newLog);
     }
 
-    public function makeChangeLog(array $changeLoad)
+    public function getFinalTime()
     {
-        $log = fopen($this->logPath, 'w');
-        foreach ($changeLoad as $key => $value) {
-            fwrite($log, $value . PHP_EOL);
+        exec("grep 'active_time' " . $this->logFile . "|tail -n 1 |awk '{print $2 \" \" $3}'", $finalTime);
+        if ($finalTime == null) {
+            return false;
         }
+        return $finalTime;
+    }
+
+    public function makeChangeLog($finalTime)
+    {
+        $file = fopen($this->changeLogPath, 'w');
+        chmod($this->changeLogPath, 0777);
+        fwrite($file, $finalTime);
+        fclose($file);
+    }
+
+    public function getLastTime()
+    {
+        exec("cat {$this->changeLogPath}", $lastTime);
+        return $lastTime;
+    }
+
+    public function getNewLog($lastTime)
+    {
+        preg_match_all('/active_time: ' . $lastTime . '[\s\S]+?out:[\s\S]+?\n([\s\S]+\n)/', $content, $newLog);
+        return $newLog;
+    }
+
+    public function getAllLog()
+    {
+        $fp = fopen($this->logFile, "r");
+        while (!feof($fp)) {
+            $content[] = fgets($fp);
+        }
+        fclose($fp);
+        $content = implode('', $content);
     }
 }
