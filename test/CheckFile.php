@@ -13,79 +13,109 @@ class CheckFile
         $this->logFile = $this->accDir . date('Y-m-d') . '/' . date('H') . '.log';
     }
 
-    public function check()
+    public function accLogCheck()
     {
-        $lastTime = array();
-        $finalTime = array();
-
+        $newLog = array();
         $lastTime = $this->getLastTime();
         $finalTime = $this->getFinalTime();
-        $lastHour = exec("echo {$lastTime[0]} |awk '{print $2}'| awk -F \":\" '{print $1}'");
-        $finalTime = exec("echo {$finalTime[0]} |awk '{print $2}'| awk -F \":\" '{print $1}'");
-        var_dump($lastHour);
-        var_dump($finalTime);exit;
-        if ($finalTime == null) {
-            echo "當前無紀錄。";
-            return false;
-        }
-        if (!file_exists($this->changeLogPath) || empty($lastTime)) {
+        $lastHour = exec("echo {$lastTime} |awk '{print $2}'| awk -F \":\" '{print $1}'");
+        $finalHour = exec("echo {$finalTime} |awk '{print $2}'| awk -F \":\" '{print $1}'");
+
+
+        //檢查changeLog是否存在並且有資料，否則以最後一筆紀錄重新建立。
+        if (!file_exists($this->changeLogPath) || !$lastTime) {
             try {
-                $this->makeChangeLog($finalTime[0]);
+                if (!$finalTime) {
+                    echo "目前無紀錄檔。";
+                    return false;
+                } elseif (!$lastTime && $finalTime) {
+                    self::makeChangeLog($this->changeLogPath, $finalTime);
+                }
             } catch (\Exception $e) {
                 throw new \Exception($e);
             }
         }
-        if (!$change = array_diff($lastTime, $finalTime)) {
-            echo "Log資料無異動。";
+        if ($lastTime == $finalTime) {
+            echo "Log無異動資料。";
             return false;
         }
+        //判斷是否隔時段
+        if ($lastHour != $finalHour) {
+            $lastLogPath = $this->accDir . date('Y-m-d') . '/' . $lastHour . '.log';
+            $content = $this->getAllLog($lastLogPath);
+            $newLog_last = $this->getNewLog($lastTime, $content);
+            //若上一個時段無新log則跳過
+            if ($newLog_last) {
+                $newLog[] = $newLog_last;
+            }
+            $newLog[] = $this->getAllLog();
+        } else {
+            $content = $this->getAllLog();
+            $newLog[] = $this->getNewLog($lastTime, $content);
+        }
+            self::makeChangeLog($this->changeLogPath, $finalTime);
+            $results = implode(PHP_EOL, $newLog);
+            echo "<pre>";
+            print_r($results);
+    }
 
-        echo "Log資料異動！！";
-
-        
-        $this->makeChangeLog($finalTime[0]);
-        $newLog = $this->getNewLog($lastTime[0]);
-
-        echo "<pre>";
-        print_r($newLog);
+    public function getLastTime()
+    {
+        $lastTime = exec("cat {$this->changeLogPath}");
+        if ($lastTime == null) {
+            return false;
+        }
+        return $lastTime;
     }
 
     public function getFinalTime()
     {
-        exec("grep 'active_time' " . $this->logFile . "|tail -n 1 |awk '{print $2 \" \" $3}'", $finalTime);
+        $finalLogDir = exec("ls {$this->accDir} |tail -n 1");
+        $finalLogFile = exec("ls {$this->accDir}{$finalLogDir} |tail -n 1");
+        if (empty($finalLogFile)) {
+            return false;
+        }
+        $logFile = $this->accDir . $finalLogDir . '/' . $finalLogFile;
+        $finalTime = exec("grep 'active_time' " . $logFile . "|tail -n 1 |awk '{print $2 \" \" $3}'");
         if ($finalTime == null) {
             return false;
         }
         return $finalTime;
     }
 
-    public function makeChangeLog($finalTime)
+    private static function makeChangeLog($path, $finalTime)
     {
-        $file = fopen($this->changeLogPath, 'w');
-        chmod($this->changeLogPath, 0777);
+        $file = fopen($path, 'w');
+        chmod($path, 0777);
         fwrite($file, $finalTime);
         fclose($file);
     }
 
-    public function getLastTime()
-    {
-        exec("cat {$this->changeLogPath}", $lastTime);
-        return $lastTime;
-    }
-
-    public function getNewLog($lastTime)
+    public function getNewLog($lastTime, $content)
     {
         preg_match_all('/active_time: ' . $lastTime . '[\s\S]+?out:[\s\S]+?\n([\s\S]+\n)/', $content, $newLog);
-        return $newLog;
+        if (empty($newLog[1])) {
+            return false;
+        }
+        return $newLog[1][0];
     }
 
-    public function getAllLog()
+    public function getAllLog($logPath = null)
     {
-        $fp = fopen($this->logFile, "r");
+        if ($logPath != null && file_exists($logPath)) {
+            $fp = fopen($logPath, "r");
+        } elseif (file_exists($this->logFile)) {
+            $fp = fopen($this->logFile, "r");
+        } else {
+            return false;
+        }
         while (!feof($fp)) {
             $content[] = fgets($fp);
         }
         fclose($fp);
         $content = implode('', $content);
+
+        return $content;
+
     }
 }
