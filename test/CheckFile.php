@@ -30,6 +30,7 @@ class CheckFile
                     return false;
                 } elseif (!$lastTime && $finalTime) {
                     self::makeChangeLog($this->changeLogPath, $finalTime);
+                    echo "初始化成功";
                 }
             } catch (\Exception $e) {
                 throw new \Exception($e);
@@ -85,10 +86,16 @@ class CheckFile
 
     private static function makeChangeLog($path, $finalTime)
     {
-        $file = fopen($path, 'w');
-        chmod($path, 0777);
-        fwrite($file, $finalTime);
-        fclose($file);
+        try {
+            $file = fopen($path, 'w');
+            chmod($path, 0777);
+            fwrite($file, $finalTime);
+            fclose($file);
+            
+            return ture;
+        } catch (\Exception $e) {
+            throw new \Exception($e);
+        }
     }
 
     public function getNewLog($lastTime, $content)
